@@ -16,5 +16,15 @@
 **登入④**：帳號/密碼輸入完畢後，即可登入<br/>
 [忘記密碼③](service@ease-x.com)：系統將引導寄送信件，重新設定密碼<br/>
 
+### 新增帳號
+<div align=center><img width="30%" height="30%" src="https://github.com/ihsienlee/GitMdFile/blob/master/ease/figures/login03.png"></div><br/>
+
+**帳號①**：使用者帳號(Email)<br/>
+**密碼①**：設定帳號<br/>
+**註冊②**：完成帳號與密碼輸入後，即可執行註冊。<br/>
+系統會自動寄送確認信，使用者收到確認信，點選連結網址，即可完成註冊。<br/>
+
+
+
 
 
