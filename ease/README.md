@@ -2,5 +2,12 @@
 ## 1.1.	[入口網站](https://www.ease-x.com/)
 網址：[https://www.ease-x.com/](https://www.ease-x.com/) <br />
 
-![image](https://github.com/ihsienlee/GitMdFile/blob/master/ease/figures/%E7%99%BB%E5%85%A501.png)<br />
+![image](https://github.com/ihsienlee/GitMdFile/blob/master/ease/figures/login01.png)<br />
 首頁圖，利用滑鼠執行[登入①](https://app.ease-x.com/)<br />
+
+steps:
+- title: What is GitHub?
+  description: After watching this video, close the first issue in your repository.
+  video: https://youtube.com/embed/w3jLJU7DT5E
+
+
