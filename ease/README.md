@@ -5,9 +5,6 @@
 ![image](https://github.com/ihsienlee/GitMdFile/blob/master/ease/figures/login01.png)<br />
 首頁圖，利用滑鼠執行[登入①](https://app.ease-x.com/)<br />
 
-steps:
-- title: What is GitHub?
-  description: After watching this video, close the first issue in your repository.
-  video: https://youtube.com/embed/w3jLJU7DT5E
-
+![image](https://github.com/ihsienlee/GitMdFile/blob/master/ease/figures/login02.png)<br/>
+[①]創立新帳號
 
